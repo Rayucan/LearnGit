@@ -1,1 +1,2 @@
-This is a test.
+This is a new test.
+And new line.
